@@ -1,7 +1,7 @@
 # Demo2-Ecommerce-Selenium-TestNG-POM
  A testing repository using Selenium and TestNG to automate an e-commerce website Envo Ecommerce and its suite of applications.
 
-Technology
+*Technology
 Prerequisites
 How to run this project
 Reports View
