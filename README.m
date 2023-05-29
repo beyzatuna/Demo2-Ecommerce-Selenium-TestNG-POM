@@ -1,23 +1,19 @@
-# Demo2-Ecommerce-Selenium-TestNG-POM
- A testing repository using Selenium and TestNG to automate an e-commerce website Envo Ecommerce and its suite of applications.
+This repository contains a testing project using Selenium and TestNG to automate an e-commerce website, Envo Ecommerce, along with its suite of applications.
 
-#Technology
-#Prerequisites
-How to run this project
-Reports View
-Technology:
+Technology
 Tool: Selenium
-IDE: IntelIJ
+IDE: IntelliJ IDEA
 Build tool: Gradle
 Language: Java
 Framework: TestNG
 Prerequisites
-Install jdk 8 or any LTS version
-Configure JAVA_HOME and GRADLE_HOME
-Download Allure latest version and configure system environment path
-Stable internet connection
-How to run this project
-Clone the repo in your local directory
-Open terminal to the project folder
-Run command gradle clean test to build the project
-gradle clean test
+Before running this project, make sure you have the following prerequisites set up:
+
+Install JDK 8 or any LTS version.
+Configure the JAVA_HOME and GRADLE_HOME environment variables.
+Download the latest version of Allure and configure the system environment path.
+Ensure a stable internet connection.
+How to Run This Project
+To run this project, follow these steps:
+
+Clone the repository to your local directory:
