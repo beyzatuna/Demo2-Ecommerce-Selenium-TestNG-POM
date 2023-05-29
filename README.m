@@ -3,7 +3,7 @@ This repository contains a testing project using Selenium and TestNG to automate
 Technology
 Tool: Selenium
 IDE: IntelliJ IDEA
-Build tool: Gradle
+Build tool: Maven
 Language: Java
 Framework: TestNG
 Prerequisites
